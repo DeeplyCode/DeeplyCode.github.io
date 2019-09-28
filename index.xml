@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>https://DeeplyCode.github.io/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+	<atom:link href="https://DeeplyCode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://DeeplyCode.github.io/post/%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://DeeplyCode.github.io/post/%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D/</guid>
+      <description>#博客的介绍 Hi 我是DeepCode，今天2019年9月28号，我建立了这个博客; 我不是什么大神，我只是个普通的大学生，但我有编程的梦想，这也是我的乐趣。 我建立这个博客不是为了装逼，只是为了让自己自律，让自己进步； 欧文以后会努力每天更新博客，让自己变得更加优秀。 &amp;mdash;&amp;mdash;(我原来的名字叫DeepHole有的网站过滤就换成DeeplyCode)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://DeeplyCode.github.io/sitemap.xml
